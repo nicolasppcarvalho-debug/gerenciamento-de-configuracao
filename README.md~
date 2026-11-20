@@ -1,0 +1,15 @@
+
+# Gerenciamento de Configuração
+
+Projeto acadêmico desenvolvido para a disciplina Projeto de Software.
+
+## Objetivo
+
+Demonstrar o uso do Git e GitHub no gerenciamento de configuração e controle de versões de um projeto.
+
+## Modificações
+
+- Criação do repositório remoto.
+- Clonagem do projeto para o computador local.
+- Atualização da documentação.
+- Criação de novos artefatos.
